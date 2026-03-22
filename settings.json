@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": ""www-BoxPvp.aternos.me",
+    "ip": "www-BoxPvp.aternos.me",
     "port": 18440,
     "version": "1.21.11"
   },
